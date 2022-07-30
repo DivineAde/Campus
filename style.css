@@ -10,7 +10,7 @@ body{
 .main{
   height: 100vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("/img/img-2/Welcome.png") ;
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("/img-2/Welcome.png") ;
   background-position: center ;
   background-repeat: no-repeat;
   background-size: cover;
@@ -304,7 +304,7 @@ text-align: center;
 
 
  .tutor{
-  background-image:  url("/img/subscribe-bg.png");
+  background-image:  url("subscribe-bg.png");
   width: 80%;
   margin: auto;
   border-radius: 10px;
@@ -339,7 +339,7 @@ text-align: center;
  .main-about{
   height: 80vh;
   width: 100%;
-  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("/img/grad.jpeg") ;
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)), url("grad.jpeg") ;
   background-position: center ;
   background-repeat: no-repeat;
   background-size: cover;
@@ -413,7 +413,7 @@ text-align: center;
 
  /* ================== course ========================*/
  .main-course{
- background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)) , url("/img/img-2/ach-3.jpg");
+ background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)) , url("/img-2/ach-3.jpg");
  height: 80vh;
   width: 100%;
   background-position: center ;
