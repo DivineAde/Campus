@@ -413,7 +413,7 @@ text-align: center;
 
  /* ================== course ========================*/
  .main-course{
- background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)) , url("/img-2/ach-3.jpg");
+ background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)) , url("img-2/ach-3.jpg");
  height: 80vh;
   width: 100%;
   background-position: center ;
